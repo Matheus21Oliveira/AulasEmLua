@@ -1,3 +1,4 @@
+--variáveis globais
 playerlife = 100;
 playerattack = 10;
 playername = "Matheus";
